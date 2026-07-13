@@ -4,7 +4,6 @@ A practical implementation of the most widely used **Regression Algorithms** in 
 
 This notebook demonstrates how to build, train, and evaluate multiple regression models on synthetic datasets, making it an excellent learning resource for beginners and students preparing for interviews or placements.
 
----
 
 ## 🚀 Algorithms Implemented
 
