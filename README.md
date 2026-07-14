@@ -129,7 +129,6 @@ Run all cells.
 | LightGBM Regressor | LightGBM |
 | CatBoost Regressor | CatBoost |
 
----
 
 ## 🎯 Ideal For
 
