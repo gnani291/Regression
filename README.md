@@ -82,7 +82,6 @@ or
 pip install numpy scikit-learn xgboost lightgbm catboost
 ```
 
----
 
 ## ▶️ Run the Notebook
 
