@@ -111,7 +111,6 @@ Regression.ipynb
 
 Run all cells.
 
----
 
 ## 📈 Regression Models Included
 
