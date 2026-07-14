@@ -64,7 +64,7 @@ Regression/
 - CatBoost
 - Jupyter Notebook
 
----
+
 
 ## 📦 Required Libraries
 
